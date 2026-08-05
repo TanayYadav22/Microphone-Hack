@@ -1,11 +1,3 @@
-# Mohini
-Mohini is a online real time hacking tool which is used for Capturing audio (.wav) from target via a link 😉,
-
-### THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE, DON'T MISUSE IT.
-<p align="center">
-  <img src=".img/Mohini.png">
-</p>
-
 ### How it works?
 
 After the user grants microphone permissions, a website redirect button of your choice is released to distract the target while small audio files (about 4 seconds in wav format) are sent to the attacker.
